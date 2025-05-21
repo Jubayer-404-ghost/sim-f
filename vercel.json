@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/sim.js": {
+    "sim.js": {
       "memory": 128,
       "maxDuration": 10
     }
