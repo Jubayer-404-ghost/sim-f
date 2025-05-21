@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/sim.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  },
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "ignoreCommand": "true"
+}
